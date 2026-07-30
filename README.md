@@ -1,3 +1,6 @@
+
+<h1 align="center">Depreciated due to changes in Contineo after 2025</h1>
+
 <p align="center">
   <img src="assets/logo.png" alt="Crystal Auto Logger Logo" width="160"/>
 </p>
